@@ -1,0 +1,489 @@
+2017-07-16 22:51:39: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:51:39: Calculated 32 byte key.
+2017-07-16 22:51:39: Licence file cfg.dat is missing.
+2017-07-16 22:52:12: Setting expiration time to: 2017-07-22.
+2017-07-16 22:52:12: Setting licence usage to: 10.
+2017-07-16 22:52:12: File cfg.dat deleted OK.
+2017-07-16 22:52:12: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:12: Calculated 32 byte key.
+2017-07-16 22:52:12: Setting expiration time to: 1500670800.
+2017-07-16 22:52:12: File cfg.dat updated OK.
+2017-07-16 22:52:12: Setting usage limit to: 10.
+2017-07-16 22:52:12: File cfg.dat updated OK.
+2017-07-16 22:52:12: File cfg.dat readback OK.
+2017-07-16 22:52:12: Expiration licence encryption successful.
+2017-07-16 22:52:12: Usage licence encryption successful.
+2017-07-16 22:52:17: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:17: Calculated 32 byte key.
+2017-07-16 22:52:17: File cfg.dat readback OK.
+2017-07-16 22:52:17: No last runtime found.
+2017-07-16 22:52:17: Expiration licence is valid. 436063 seconds left.
+2017-07-16 22:52:17: Usage licence is valid. 10 runs left.
+2017-07-16 22:52:17: File cfg.dat deleted OK.
+2017-07-16 22:52:17: File cfg.dat updated OK.
+2017-07-16 22:52:17: File cfg.dat updated OK.
+2017-07-16 22:52:17: File cfg.dat updated OK.
+2017-07-16 22:52:21: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:21: Calculated 32 byte key.
+2017-07-16 22:52:21: File cfg.dat readback OK.
+2017-07-16 22:52:21: Last runtime was at 1500234737.
+2017-07-16 22:52:21: Expiration licence is valid. 436059 seconds left.
+2017-07-16 22:52:21: Usage licence is valid. 9 runs left.
+2017-07-16 22:52:21: Last run time was 4 seconds ago.
+2017-07-16 22:52:21: File cfg.dat deleted OK.
+2017-07-16 22:52:21: File cfg.dat updated OK.
+2017-07-16 22:52:21: File cfg.dat updated OK.
+2017-07-16 22:52:21: File cfg.dat updated OK.
+2017-07-16 22:52:22: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:22: Calculated 32 byte key.
+2017-07-16 22:52:22: File cfg.dat readback OK.
+2017-07-16 22:52:22: Last runtime was at 1500234741.
+2017-07-16 22:52:22: Expiration licence is valid. 436058 seconds left.
+2017-07-16 22:52:22: Usage licence is valid. 8 runs left.
+2017-07-16 22:52:22: Last run time was 1 seconds ago.
+2017-07-16 22:52:22: File cfg.dat deleted OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:22: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:22: Calculated 32 byte key.
+2017-07-16 22:52:22: File cfg.dat readback OK.
+2017-07-16 22:52:22: Last runtime was at 1500234742.
+2017-07-16 22:52:22: Expiration licence is valid. 436058 seconds left.
+2017-07-16 22:52:22: Usage licence is valid. 7 runs left.
+2017-07-16 22:52:22: Last run time was 0 seconds ago.
+2017-07-16 22:52:22: File cfg.dat deleted OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:22: File cfg.dat updated OK.
+2017-07-16 22:52:23: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:23: Calculated 32 byte key.
+2017-07-16 22:52:23: File cfg.dat readback OK.
+2017-07-16 22:52:23: Last runtime was at 1500234742.
+2017-07-16 22:52:23: Expiration licence is valid. 436057 seconds left.
+2017-07-16 22:52:23: Usage licence is valid. 6 runs left.
+2017-07-16 22:52:23: Last run time was 1 seconds ago.
+2017-07-16 22:52:23: File cfg.dat deleted OK.
+2017-07-16 22:52:23: File cfg.dat updated OK.
+2017-07-16 22:52:23: File cfg.dat updated OK.
+2017-07-16 22:52:23: File cfg.dat updated OK.
+2017-07-16 22:52:25: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:25: Calculated 32 byte key.
+2017-07-16 22:52:25: File cfg.dat readback OK.
+2017-07-16 22:52:25: Last runtime was at 1500234743.
+2017-07-16 22:52:25: Expiration licence is valid. 436055 seconds left.
+2017-07-16 22:52:25: Usage licence is valid. 5 runs left.
+2017-07-16 22:52:25: Last run time was 2 seconds ago.
+2017-07-16 22:52:25: File cfg.dat deleted OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:25: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:25: Calculated 32 byte key.
+2017-07-16 22:52:25: File cfg.dat readback OK.
+2017-07-16 22:52:25: Last runtime was at 1500234745.
+2017-07-16 22:52:25: Expiration licence is valid. 436055 seconds left.
+2017-07-16 22:52:25: Usage licence is valid. 4 runs left.
+2017-07-16 22:52:25: Last run time was 0 seconds ago.
+2017-07-16 22:52:25: File cfg.dat deleted OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:25: File cfg.dat updated OK.
+2017-07-16 22:52:26: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:26: Calculated 32 byte key.
+2017-07-16 22:52:26: File cfg.dat readback OK.
+2017-07-16 22:52:26: Last runtime was at 1500234745.
+2017-07-16 22:52:26: Expiration licence is valid. 436054 seconds left.
+2017-07-16 22:52:26: Usage licence is valid. 3 runs left.
+2017-07-16 22:52:26: Last run time was 1 seconds ago.
+2017-07-16 22:52:26: File cfg.dat deleted OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:26: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:26: Calculated 32 byte key.
+2017-07-16 22:52:26: File cfg.dat readback OK.
+2017-07-16 22:52:26: Last runtime was at 1500234746.
+2017-07-16 22:52:26: Expiration licence is valid. 436054 seconds left.
+2017-07-16 22:52:26: Usage licence is valid. 2 runs left.
+2017-07-16 22:52:26: Last run time was 0 seconds ago.
+2017-07-16 22:52:26: File cfg.dat deleted OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:26: File cfg.dat updated OK.
+2017-07-16 22:52:27: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:27: Calculated 32 byte key.
+2017-07-16 22:52:27: File cfg.dat readback OK.
+2017-07-16 22:52:27: Last runtime was at 1500234746.
+2017-07-16 22:52:27: Expiration licence is valid. 436053 seconds left.
+2017-07-16 22:52:27: Usage licence is valid. 1 runs left.
+2017-07-16 22:52:27: Last run time was 1 seconds ago.
+2017-07-16 22:52:27: File cfg.dat deleted OK.
+2017-07-16 22:52:27: File cfg.dat updated OK.
+2017-07-16 22:52:27: File cfg.dat updated OK.
+2017-07-16 22:52:27: File cfg.dat updated OK.
+2017-07-16 22:52:28: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:28: Calculated 32 byte key.
+2017-07-16 22:52:28: File cfg.dat readback OK.
+2017-07-16 22:52:28: Last runtime was at 1500234747.
+2017-07-16 22:52:28: Expiration licence is valid. 436052 seconds left.
+2017-07-16 22:52:28: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:28: Last run time was 1 seconds ago.
+2017-07-16 22:52:28: File cfg.dat deleted OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:28: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:28: Calculated 32 byte key.
+2017-07-16 22:52:28: File cfg.dat readback OK.
+2017-07-16 22:52:28: Last runtime was at 1500234748.
+2017-07-16 22:52:28: Expiration licence is valid. 436052 seconds left.
+2017-07-16 22:52:28: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:28: Last run time was 0 seconds ago.
+2017-07-16 22:52:28: File cfg.dat deleted OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:28: File cfg.dat updated OK.
+2017-07-16 22:52:29: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:29: Calculated 32 byte key.
+2017-07-16 22:52:29: File cfg.dat readback OK.
+2017-07-16 22:52:29: Last runtime was at 1500234748.
+2017-07-16 22:52:29: Expiration licence is valid. 436051 seconds left.
+2017-07-16 22:52:29: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:29: Last run time was 1 seconds ago.
+2017-07-16 22:52:29: File cfg.dat deleted OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:29: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:29: Calculated 32 byte key.
+2017-07-16 22:52:29: File cfg.dat readback OK.
+2017-07-16 22:52:29: Last runtime was at 1500234749.
+2017-07-16 22:52:29: Expiration licence is valid. 436051 seconds left.
+2017-07-16 22:52:29: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:29: Last run time was 0 seconds ago.
+2017-07-16 22:52:29: File cfg.dat deleted OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:29: File cfg.dat updated OK.
+2017-07-16 22:52:30: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:30: Calculated 32 byte key.
+2017-07-16 22:52:30: File cfg.dat readback OK.
+2017-07-16 22:52:30: Last runtime was at 1500234749.
+2017-07-16 22:52:30: Expiration licence is valid. 436050 seconds left.
+2017-07-16 22:52:30: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:30: Last run time was 1 seconds ago.
+2017-07-16 22:52:30: File cfg.dat deleted OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:30: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:30: Calculated 32 byte key.
+2017-07-16 22:52:30: File cfg.dat readback OK.
+2017-07-16 22:52:30: Last runtime was at 1500234750.
+2017-07-16 22:52:30: Expiration licence is valid. 436050 seconds left.
+2017-07-16 22:52:30: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:30: Last run time was 0 seconds ago.
+2017-07-16 22:52:30: File cfg.dat deleted OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:30: File cfg.dat updated OK.
+2017-07-16 22:52:31: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:31: Calculated 32 byte key.
+2017-07-16 22:52:31: File cfg.dat readback OK.
+2017-07-16 22:52:31: Last runtime was at 1500234750.
+2017-07-16 22:52:31: Expiration licence is valid. 436049 seconds left.
+2017-07-16 22:52:31: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:31: Last run time was 1 seconds ago.
+2017-07-16 22:52:31: File cfg.dat deleted OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:31: Calculated 32 byte key.
+2017-07-16 22:52:31: File cfg.dat readback OK.
+2017-07-16 22:52:31: Last runtime was at 1500234751.
+2017-07-16 22:52:31: Expiration licence is valid. 436049 seconds left.
+2017-07-16 22:52:31: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:31: Last run time was 0 seconds ago.
+2017-07-16 22:52:31: File cfg.dat deleted OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:31: Calculated 32 byte key.
+2017-07-16 22:52:31: File cfg.dat readback OK.
+2017-07-16 22:52:31: Last runtime was at 1500234751.
+2017-07-16 22:52:31: Expiration licence is valid. 436049 seconds left.
+2017-07-16 22:52:31: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:31: Last run time was 0 seconds ago.
+2017-07-16 22:52:31: File cfg.dat deleted OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:31: File cfg.dat updated OK.
+2017-07-16 22:52:32: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:52:32: Calculated 32 byte key.
+2017-07-16 22:52:32: File cfg.dat readback OK.
+2017-07-16 22:52:32: Last runtime was at 1500234751.
+2017-07-16 22:52:32: Expiration licence is valid. 436048 seconds left.
+2017-07-16 22:52:32: Usage licence is invalid. 0 runs left.
+2017-07-16 22:52:32: Last run time was 1 seconds ago.
+2017-07-16 22:52:32: File cfg.dat deleted OK.
+2017-07-16 22:52:32: File cfg.dat updated OK.
+2017-07-16 22:52:32: File cfg.dat updated OK.
+2017-07-16 22:52:32: File cfg.dat updated OK.
+2017-07-16 22:53:45: Setting expiration time to: 2017-07-22.
+2017-07-16 22:53:45: Setting licence usage to: 2.
+2017-07-16 22:53:45: File cfg.dat deleted OK.
+2017-07-16 22:53:45: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:53:45: Calculated 32 byte key.
+2017-07-16 22:53:45: Setting expiration time to: 1500670800.
+2017-07-16 22:53:45: File cfg.dat updated OK.
+2017-07-16 22:53:45: Setting usage limit to: 2.
+2017-07-16 22:53:45: File cfg.dat updated OK.
+2017-07-16 22:53:45: File cfg.dat readback OK.
+2017-07-16 22:53:45: Expiration licence encryption successful.
+2017-07-16 22:53:45: Usage licence encryption successful.
+2017-07-16 22:53:49: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:53:49: Calculated 32 byte key.
+2017-07-16 22:53:49: File cfg.dat readback OK.
+2017-07-16 22:53:49: No last runtime found.
+2017-07-16 22:53:49: Expiration licence is valid. 435971 seconds left.
+2017-07-16 22:53:49: Usage licence is valid. 2 runs left.
+2017-07-16 22:53:49: File cfg.dat deleted OK.
+2017-07-16 22:53:49: File cfg.dat updated OK.
+2017-07-16 22:53:49: File cfg.dat updated OK.
+2017-07-16 22:53:49: File cfg.dat updated OK.
+2017-07-16 22:53:50: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:53:50: Calculated 32 byte key.
+2017-07-16 22:53:50: File cfg.dat readback OK.
+2017-07-16 22:53:50: Last runtime was at 1500234829.
+2017-07-16 22:53:50: Expiration licence is valid. 435970 seconds left.
+2017-07-16 22:53:50: Usage licence is valid. 1 runs left.
+2017-07-16 22:53:50: Last run time was 1 seconds ago.
+2017-07-16 22:53:50: File cfg.dat deleted OK.
+2017-07-16 22:53:50: File cfg.dat updated OK.
+2017-07-16 22:53:50: File cfg.dat updated OK.
+2017-07-16 22:53:50: File cfg.dat updated OK.
+2017-07-16 22:53:51: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:53:51: Calculated 32 byte key.
+2017-07-16 22:53:51: File cfg.dat readback OK.
+2017-07-16 22:53:51: Last runtime was at 1500234830.
+2017-07-16 22:53:51: Expiration licence is valid. 435969 seconds left.
+2017-07-16 22:53:51: Usage licence is invalid. 0 runs left.
+2017-07-16 22:53:51: Last run time was 1 seconds ago.
+2017-07-16 22:53:51: File cfg.dat deleted OK.
+2017-07-16 22:53:51: File cfg.dat updated OK.
+2017-07-16 22:53:51: File cfg.dat updated OK.
+2017-07-16 22:53:51: File cfg.dat updated OK.
+2017-07-16 22:55:48: Setting expiration time to: 2017-07-22.
+2017-07-16 22:55:48: Setting licence usage to: 2.
+2017-07-16 22:55:48: File cfg.dat deleted OK.
+2017-07-16 22:55:48: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:55:48: Calculated 32 byte key.
+2017-07-16 22:55:48: Setting expiration time to: 1500670800.
+2017-07-16 22:55:48: File cfg.dat updated OK.
+2017-07-16 22:55:48: Setting usage limit to: 2.
+2017-07-16 22:55:48: File cfg.dat updated OK.
+2017-07-16 22:55:48: File cfg.dat readback OK.
+2017-07-16 22:55:48: Expiration licence encryption successful.
+2017-07-16 22:55:48: Usage licence encryption successful.
+2017-07-16 22:56:10: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:56:10: Calculated 32 byte key.
+2017-07-16 22:56:10: File cfg.dat readback OK.
+2017-07-16 22:56:10: No last runtime found.
+2017-07-16 22:56:10: Expiration licence is valid. 435830 seconds left.
+2017-07-16 22:56:10: Usage licence is valid. 2 runs left.
+2017-07-16 22:56:10: File cfg.dat deleted OK.
+2017-07-16 22:56:10: File cfg.dat updated OK.
+2017-07-16 22:56:10: File cfg.dat updated OK.
+2017-07-16 22:56:10: File cfg.dat updated OK.
+2017-07-16 22:56:12: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:56:12: Calculated 32 byte key.
+2017-07-16 22:56:12: File cfg.dat readback OK.
+2017-07-16 22:56:12: Last runtime was at 1500234970.
+2017-07-16 22:56:12: Expiration licence is valid. 435828 seconds left.
+2017-07-16 22:56:12: Usage licence is valid. 1 runs left.
+2017-07-16 22:56:12: Last run time was 2 seconds ago.
+2017-07-16 22:56:12: File cfg.dat deleted OK.
+2017-07-16 22:56:12: File cfg.dat updated OK.
+2017-07-16 22:56:12: File cfg.dat updated OK.
+2017-07-16 22:56:12: File cfg.dat updated OK.
+2017-07-16 22:56:13: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 22:56:13: Calculated 32 byte key.
+2017-07-16 22:56:13: File cfg.dat readback OK.
+2017-07-16 22:56:13: Last runtime was at 1500234972.
+2017-07-16 22:56:13: Expiration licence is valid. 435827 seconds left.
+2017-07-16 22:56:13: Usage licence is invalid. 0 runs left.
+2017-07-16 22:56:13: Last run time was 1 seconds ago.
+2017-07-16 22:56:13: File cfg.dat deleted OK.
+2017-07-16 22:56:13: File cfg.dat updated OK.
+2017-07-16 22:56:13: File cfg.dat updated OK.
+2017-07-16 22:56:13: File cfg.dat updated OK.
+2017-07-16 22:56:30: Licence file cfg.dat is missing.
+2017-07-16 22:56:35: Licence file cfg.dat is missing.
+2017-07-16 23:21:04: Setting expiration time to: 2017-07-22.
+2017-07-16 23:21:04: Setting licence usage to: 10.
+2017-07-16 23:21:04: File cfg.dat deleted OK.
+2017-07-16 23:21:04: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:04: Calculated 32 byte key.
+2017-07-16 23:21:04: Setting expiration time to: 1500670800.
+2017-07-16 23:21:04: File cfg.dat updated OK.
+2017-07-16 23:21:04: Setting usage limit to: 10.
+2017-07-16 23:21:04: File cfg.dat updated OK.
+2017-07-16 23:21:04: File cfg.dat readback OK.
+2017-07-16 23:21:04: Expiration licence encryption successful.
+2017-07-16 23:21:04: Usage licence encryption successful.
+2017-07-16 23:21:08: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:08: Calculated 32 byte key.
+2017-07-16 23:21:08: File cfg.dat readback OK.
+2017-07-16 23:21:08: No last runtime found.
+2017-07-16 23:21:08: Expiration licence is valid. 434332 seconds left.
+2017-07-16 23:21:08: Usage licence is valid. 10 runs left.
+2017-07-16 23:21:08: File cfg.dat deleted OK.
+2017-07-16 23:21:08: File cfg.dat updated OK.
+2017-07-16 23:21:08: File cfg.dat updated OK.
+2017-07-16 23:21:08: File cfg.dat updated OK.
+2017-07-16 23:21:10: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:10: Calculated 32 byte key.
+2017-07-16 23:21:10: File cfg.dat readback OK.
+2017-07-16 23:21:10: Last runtime was at 1500236468.
+2017-07-16 23:21:10: Expiration licence is valid. 434330 seconds left.
+2017-07-16 23:21:10: Usage licence is valid. 9 runs left.
+2017-07-16 23:21:10: Last run time was 2 seconds ago.
+2017-07-16 23:21:10: File cfg.dat deleted OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:10: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:10: Calculated 32 byte key.
+2017-07-16 23:21:10: File cfg.dat readback OK.
+2017-07-16 23:21:10: Last runtime was at 1500236470.
+2017-07-16 23:21:10: Expiration licence is valid. 434330 seconds left.
+2017-07-16 23:21:10: Usage licence is valid. 8 runs left.
+2017-07-16 23:21:10: Last run time was 0 seconds ago.
+2017-07-16 23:21:10: File cfg.dat deleted OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:10: File cfg.dat updated OK.
+2017-07-16 23:21:11: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:11: Calculated 32 byte key.
+2017-07-16 23:21:11: File cfg.dat readback OK.
+2017-07-16 23:21:11: Last runtime was at 1500236470.
+2017-07-16 23:21:11: Expiration licence is valid. 434329 seconds left.
+2017-07-16 23:21:11: Usage licence is valid. 7 runs left.
+2017-07-16 23:21:11: Last run time was 1 seconds ago.
+2017-07-16 23:21:11: File cfg.dat deleted OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:11: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:11: Calculated 32 byte key.
+2017-07-16 23:21:11: File cfg.dat readback OK.
+2017-07-16 23:21:11: Last runtime was at 1500236471.
+2017-07-16 23:21:11: Expiration licence is valid. 434329 seconds left.
+2017-07-16 23:21:11: Usage licence is valid. 6 runs left.
+2017-07-16 23:21:11: Last run time was 0 seconds ago.
+2017-07-16 23:21:11: File cfg.dat deleted OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:11: File cfg.dat updated OK.
+2017-07-16 23:21:12: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:12: Calculated 32 byte key.
+2017-07-16 23:21:12: File cfg.dat readback OK.
+2017-07-16 23:21:12: Last runtime was at 1500236471.
+2017-07-16 23:21:12: Expiration licence is valid. 434328 seconds left.
+2017-07-16 23:21:12: Usage licence is valid. 5 runs left.
+2017-07-16 23:21:12: Last run time was 1 seconds ago.
+2017-07-16 23:21:12: File cfg.dat deleted OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:12: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:12: Calculated 32 byte key.
+2017-07-16 23:21:12: File cfg.dat readback OK.
+2017-07-16 23:21:12: Last runtime was at 1500236472.
+2017-07-16 23:21:12: Expiration licence is valid. 434328 seconds left.
+2017-07-16 23:21:12: Usage licence is valid. 4 runs left.
+2017-07-16 23:21:12: Last run time was 0 seconds ago.
+2017-07-16 23:21:12: File cfg.dat deleted OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:12: File cfg.dat updated OK.
+2017-07-16 23:21:13: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:13: Calculated 32 byte key.
+2017-07-16 23:21:13: File cfg.dat readback OK.
+2017-07-16 23:21:13: Last runtime was at 1500236472.
+2017-07-16 23:21:13: Expiration licence is valid. 434327 seconds left.
+2017-07-16 23:21:13: Usage licence is valid. 3 runs left.
+2017-07-16 23:21:13: Last run time was 1 seconds ago.
+2017-07-16 23:21:13: File cfg.dat deleted OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:13: Calculated 32 byte key.
+2017-07-16 23:21:13: File cfg.dat readback OK.
+2017-07-16 23:21:13: Last runtime was at 1500236473.
+2017-07-16 23:21:13: Expiration licence is valid. 434327 seconds left.
+2017-07-16 23:21:13: Usage licence is valid. 2 runs left.
+2017-07-16 23:21:13: Last run time was 0 seconds ago.
+2017-07-16 23:21:13: File cfg.dat deleted OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:21:13: Calculated 32 byte key.
+2017-07-16 23:21:13: File cfg.dat readback OK.
+2017-07-16 23:21:13: Last runtime was at 1500236473.
+2017-07-16 23:21:13: Expiration licence is valid. 434327 seconds left.
+2017-07-16 23:21:13: Usage licence is valid. 1 runs left.
+2017-07-16 23:21:13: Last run time was 0 seconds ago.
+2017-07-16 23:21:13: File cfg.dat deleted OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:21:13: File cfg.dat updated OK.
+2017-07-16 23:24:27: Setting expiration time to: 2017-07-22.
+2017-07-16 23:24:27: Setting licence usage to: 2.
+2017-07-16 23:24:27: File cfg.dat deleted OK.
+2017-07-16 23:24:27: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:24:27: Calculated 32 byte key.
+2017-07-16 23:24:27: Setting expiration time to: 1500670800.
+2017-07-16 23:24:27: File cfg.dat updated OK.
+2017-07-16 23:24:27: Setting usage limit to: 2.
+2017-07-16 23:24:27: File cfg.dat updated OK.
+2017-07-16 23:24:27: File cfg.dat readback OK.
+2017-07-16 23:24:27: Expiration licence encryption successful.
+2017-07-16 23:24:27: Usage licence encryption successful.
+2017-07-16 23:24:33: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:24:33: Calculated 32 byte key.
+2017-07-16 23:24:33: File cfg.dat readback OK.
+2017-07-16 23:24:33: No last runtime found.
+2017-07-16 23:24:33: Expiration licence is valid. 434127 seconds left.
+2017-07-16 23:24:33: Usage licence is valid. 2 runs left.
+2017-07-16 23:24:33: File cfg.dat deleted OK.
+2017-07-16 23:24:33: File cfg.dat updated OK.
+2017-07-16 23:24:33: File cfg.dat updated OK.
+2017-07-16 23:24:33: File cfg.dat updated OK.
+2017-07-16 23:24:35: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:24:35: Calculated 32 byte key.
+2017-07-16 23:24:35: File cfg.dat readback OK.
+2017-07-16 23:24:35: Last runtime was at 1500236673.
+2017-07-16 23:24:35: Expiration licence is valid. 434125 seconds left.
+2017-07-16 23:24:35: Usage licence is valid. 1 runs left.
+2017-07-16 23:24:35: Last run time was 2 seconds ago.
+2017-07-16 23:24:35: File cfg.dat deleted OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
+2017-07-16 23:24:35: Got MAC Addresses:['d4:81:d7:97:7d:f7', '9e:b6:74:da:c3:c0', '9e:b6:d0:da:b8:db', '9c:b6:d0:da:b8:dc', '', '00:00:00:00:00:00:00:e0'].
+2017-07-16 23:24:35: Calculated 32 byte key.
+2017-07-16 23:24:35: File cfg.dat readback OK.
+2017-07-16 23:24:35: Last runtime was at 1500236675.
+2017-07-16 23:24:35: Expiration licence is valid. 434125 seconds left.
+2017-07-16 23:24:35: Usage licence is invalid. 0 runs left.
+2017-07-16 23:24:35: Last run time was 0 seconds ago.
+2017-07-16 23:24:35: File cfg.dat deleted OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
+2017-07-16 23:24:35: File cfg.dat updated OK.
